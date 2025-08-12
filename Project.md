@@ -1,2 +1,2 @@
-LocalLink – Hyperlocal Service Finder (Simplified Version)
+LocalLink – Hyperlocal Service Finder 
 LocalLink is a React Native mobile app that helps users quickly find and connect with nearby service providers such as plumbers, electricians, tutors, and more. Users can sign up, save their location, and browse a list of providers within a 5 km radius. Service providers can create profiles with their skills, pricing, and contact information. Built with Firebase for authentication, database, and location storage, the app offers a simple yet effective way to access trusted local services instantly.
